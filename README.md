@@ -1,10 +1,6 @@
-# RTosk.github.io
 ![Book logo](./Assets/Osk_Logo.png)
-# Title tag
-## Sub Title Tag
-### Name tag
 # Game Dev Projects
-https://ratatoskrz.itch.io
+All game projects can be found and played at: https://ratatoskrz.itch.io
 
 # 3D Art Projects
 
