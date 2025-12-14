@@ -67,3 +67,6 @@ Projects made in a 2 hour time frame as part of a blender event
 ![Book logo](./Assets/Spaceship.png)
 ### Tank
 ![Book logo](./Assets/Tank.png)
+### SpaceShip
+![Book logo](./Assets/SpaceShip.png)
+![Book logo](./Assets/SpaceShip1.png)
